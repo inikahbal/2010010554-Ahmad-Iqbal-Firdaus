@@ -1,0 +1,21 @@
+.link-biasa {
+    color: #ff3d00;
+    font-size: 20px;
+    margin: 10px;
+    text-decoration: none; /*membuat link tanpa garis bawah*/
+}
+.link-biasa:hover {/* hover membuat berubah ketika kursor di arahkan*/
+    color: ;
+    text-decoration: underline; /*membuat link menjadi garis bawah*/
+} 
+.link-button {
+    color: #fff;
+    background: #c2185b;
+    font-size: 15px;
+    margin-top: 100px;
+    padding: 10px;
+    text-decoration: none;
+}
+.link-button:hover {
+    background: #2169f3;
+}
